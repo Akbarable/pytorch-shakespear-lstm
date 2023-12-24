@@ -1,5 +1,5 @@
-# pytorch-shakespear-lstm - shakespeare next word prediction
-This project implements a recurrent neural network (RNN) for next word prediction trained on Shakespeare's poems. The model is built using PyTorch, and the dataset is preprocessed from the "input.txt" file located in the "data" folder.
+# Shakespeare Next Word Prediction
+This project implements a simple LSTM (Long Short Term Memory) model for next word prediction trained on Shakespeare's poems. The model is built using PyTorch, and the dataset is preprocessed from the "input.txt" file located in the "data" folder.
 
 ## Project Structure
 ```my_project/
